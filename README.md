@@ -1,4 +1,4 @@
-# Homebrew-HF-Amps
+# Homebrew HF Linear Amps
 Project to share designs for homebrew HF linear amplifier circuits by K5JCJ
 
 Ham radio to me is all about building and modifying your own equipment. And given the availability of older commercial equipment, sometimes even it needs improvement to bring it up to safe and modern standards. 
