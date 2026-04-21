@@ -1,8 +1,7 @@
 # Homebrew HF Linear Amps
 Project to share designs for homebrew HF linear amplifier circuits by K5JCJ
 
-<img width="663" height="694" alt="CAP Board 2026-04-21" src="https://github.com/user-attachments/assets/3c3caedb-02a2-4165-a01a-02c350d00ff1" />
-<img width="698" height="750" alt="Rectifier Board 2026-04-21" src="https://github.com/user-attachments/assets/ee170c95-b05e-4727-8d0c-b9625a8723da" />
+<img width="663" height="694" alt="CAP Board 2026-04-21" src="https://github.com/user-attachments/assets/3c3caedb-02a2-4165-a01a-02c350d00ff1" /><img width="698" height="750" alt="Rectifier Board 2026-04-21" src="https://github.com/user-attachments/assets/ee170c95-b05e-4727-8d0c-b9625a8723da" />
 
 
 Ham radio to me is all about building and modifying your own equipment. And given the availability of older commercial equipment, sometimes even it needs improvement to bring it up to safe and modern standards. 
